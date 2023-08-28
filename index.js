@@ -1,6 +1,5 @@
 const express = require('express');
 const app = express();
-const ip = require('ip');
 
 app.use(express.static('public'));
 
