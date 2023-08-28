@@ -1,0 +1,24 @@
+{
+  "name": "freecodecamp-apiproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kkg52/freecodecamp-APIProject"
+  },
+  "author": "Kadir Kaan Goc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kkg52/freecodecamp-APIProject/issues"
+  },
+  "homepage": "https://github.com/kkg52/freecodecamp-APIProject#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ip": "^1.1.8"
+  }
+}
